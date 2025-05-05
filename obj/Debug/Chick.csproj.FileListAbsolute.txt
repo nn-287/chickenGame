@@ -1,0 +1,9 @@
+C:\Users\nancy\source\repos\Chick\bin\Debug\Chick.exe.config
+C:\Users\nancy\source\repos\Chick\bin\Debug\Chick.exe
+C:\Users\nancy\source\repos\Chick\bin\Debug\Chick.pdb
+C:\Users\nancy\source\repos\Chick\obj\Debug\Chick.csproj.AssemblyReference.cache
+C:\Users\nancy\source\repos\Chick\obj\Debug\Chick.Properties.Resources.resources
+C:\Users\nancy\source\repos\Chick\obj\Debug\Chick.csproj.GenerateResource.cache
+C:\Users\nancy\source\repos\Chick\obj\Debug\Chick.csproj.CoreCompileInputs.cache
+C:\Users\nancy\source\repos\Chick\obj\Debug\Chick.exe
+C:\Users\nancy\source\repos\Chick\obj\Debug\Chick.pdb
